@@ -162,11 +162,11 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img height=15% width=48% src="https://github.com/shalinikannan23/mnist-classification/assets/118656529/7790d90d-e1ce-4d60-a037-e6f51b649afc">
-<img height=15% width=48% src="https://github.com/shalinikannan23/mnist-classification/assets/118656529/b5b37ee1-d540-48c0-912d-11e954e98eff">
+![download](https://github.com/Mithun103/mnist-classification/assets/118344695/33cb7465-49b7-430e-8810-f9e363906b78)
+![download](https://github.com/Mithun103/mnist-classification/assets/118344695/5dd6a425-688c-49ce-8a8f-eda39b080630)
+
 
 ### Classification Report
-![image](https://github.com/shalinikannan23/mnist-classification/assets/118656529/1de9f16c-da16-4baf-9513-5d5cefa175e4)
 
 ### Confusion Matrix
 ![image](https://github.com/shalinikannan23/mnist-classification/assets/118656529/fc8c0364-53cc-4279-bae2-d5978207781f)
