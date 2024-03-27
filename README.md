@@ -171,10 +171,12 @@ print(x_single_prediction)
 ### Classification Report
 
 ### Confusion Matrix
-![image](https://github.com/shalinikannan23/mnist-classification/assets/118656529/fc8c0364-53cc-4279-bae2-d5978207781f)
+![image](https://github.com/Mithun103/mnist-classification/assets/118344695/96932601-f2ca-4a31-89a9-b91d51db5432)
+
 
 ### New Sample Data Prediction
-![image](https://github.com/shalinikannan23/mnist-classification/assets/118656529/fa76fe7d-26d3-4a52-b5ca-8b17a97d5a0c)
+![image](https://github.com/Mithun103/mnist-classification/assets/118344695/55aff076-aca7-46ee-b363-07df41e1adf6)
+
 
 
 ## RESULT
